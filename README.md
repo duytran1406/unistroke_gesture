@@ -13,7 +13,7 @@ Just simply clone these files, extract it to Classes folder of your desired Coco
 
 Read it here: 
 ```
-Editlater
+https://www.boredninjas.com/lecture/unistroke-gesture-recognizer/
 ```
 
 ## Contributing
