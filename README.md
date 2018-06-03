@@ -1,5 +1,5 @@
 # Unistroke Gesture Recognizer for Cocos2d-x
-Simple add-on to recognize self-declared unistroke gestures in Cocos2d-x
+Simple add-on to recognize self-defined unistroke gestures in Cocos2d-x
 
 ## Getting Started
 
