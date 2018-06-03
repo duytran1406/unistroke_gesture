@@ -27,4 +27,4 @@ This code taken (and modified) from :
 * ** Duy Tran** *Initial work* - [Duy Tran](https://github.com/duytran1406)
 
 ## Donation
-If you are happy with my things, please donate me via [Paypal](paypal.me/duytran1406)
+If you are happy with my things, please donate me via [Paypal](https://paypal.me/duytran1406)
